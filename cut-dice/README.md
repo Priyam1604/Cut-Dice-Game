@@ -1,1 +1,0 @@
-# Cut Dice game
